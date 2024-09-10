@@ -8,7 +8,7 @@ EasyNote is a productivity web application designed to centralize productivity t
 ## How
 * Note-taking pages -- like Apple Notes with minimal functionality
 * Calendar
-* Task Manager
+* Task Manager -- recording pending items in a vertical, chronological order, or using a Kanban board
 ## Scope
 * Note-taking pages
 * Calendar
